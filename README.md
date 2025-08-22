@@ -7,4 +7,5 @@ I'm always curious to explore new technologies, work on meaningful projects, and
 
 📫 Email: jyothsnadarla464@gmail.com
 linkdin :  https://www.linkedin.com/in/jyothsna-darla-90579128b
-     Portfolio : https://jyothsnaDarla.github.io/Portfolio/
+
+Portfolio : https://jyothsnaDarla.github.io/Portfolio/
