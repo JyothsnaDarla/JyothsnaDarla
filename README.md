@@ -6,4 +6,5 @@ My interests include Java , Machine Learning, Data Structures & Algorithms (DSA)
 I'm always curious to explore new technologies, work on meaningful projects, and continuously grow as a developer. ✨
 
 📫 Email: jyothsnadarla464@gmail.com
-linkdin : : https://www.linkedin.com/in/jyothsna-darla-90579128b
+linkdin :  https://www.linkedin.com/in/jyothsna-darla-90579128b
+Portfolio : https://jyothsnaDarla.github.io/Portfolio/
